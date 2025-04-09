@@ -1,0 +1,12 @@
+# Fichiers Python/Django
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+
+# Fichiers statiques collectés
+staticfiles/
